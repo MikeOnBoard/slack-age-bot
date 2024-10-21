@@ -82,7 +82,7 @@ The bot will calculate your age and reply with a message indicating the calculat
 ## **Usage Example**
 A user types in a Slack channel or direct message:
 ```css
-@age-bot "my yob is 1997"
+@age-bot my yob is 1997
 ```
 The bot calculates the user's age and responds:
 ```css
